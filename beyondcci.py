@@ -1,3 +1,7 @@
+"""
+Usei o Deepseek e o GPT o3 pra estudar o
+Beyond Cracking the Coding Interview
+"""
 def max_7_days(sales):
     l, r = 0, 0
     window_sum = 0
